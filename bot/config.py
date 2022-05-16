@@ -20,7 +20,7 @@ class BotCommands:
   EmptyTrash = ['emptyTrash']
   YtDl = ['ytdl']
                                                                                                                                                                                                                                                                 
-class Messages:                                                                                                                                                                                                                                                                                                                      
+class Messages:                                                                                                                                                                                                                                                                                                                                                                           
     START_MSG = "**[Hi there](https://https://t.me/Anime_Tamizh) {}.**\n__I'm Google Drive Uploader Bot.You can use me to upload any file / video to Google Drive from direct link or Telegram Files.
 
     HELP_MSG = [
@@ -39,7 +39,7 @@ class Messages:
         
         # Dont remove this ↓ if you respect developer.
          
-        "**Join Channel @lkhitech**"
+        "**Kindly support us**"
         ]
      
     RATE_LIMIT_EXCEEDED_MESSAGE = "❗ **Rate Limit Exceeded.**\n__User rate limit exceeded try after 24 hours.__"
